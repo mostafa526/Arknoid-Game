@@ -1,0 +1,9 @@
+Enemy
+Enemy
+5
+Enemy
+4
+1
+Enemy
+3
+1
